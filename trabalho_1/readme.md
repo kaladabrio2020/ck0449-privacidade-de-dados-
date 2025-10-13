@@ -2,6 +2,7 @@
 
 # Trabalho 1: “Tem alguém aí?”
 
+Equipe : Mateus Sousa do Carmo e Adilio Juvencio de Freitas
 
 ## Estrutura do Projeto
 
@@ -28,6 +29,8 @@
 * **Numpy**  : 
 * **pyarrow**
 ---
+
+> Ou pode ver em libs.txt, que onde possue todas as dependencias
 
 ##  Passos da Implementação
 
