@@ -5,6 +5,10 @@ __pycache__/
 
 dataset/
 
+dados_covid-ce_trab02.csv
+*.zip
+*.exe
+
 # C extensions
 *.so
 
